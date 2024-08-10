@@ -1,5 +1,5 @@
-## Contents
 # Credit Risk analyzer
+## Contents
 ## Problem Statement - I
 ### Introduction
 This assignment aims to give you an idea of applying EDA in a real business scenario. In this assignment,
@@ -8,7 +8,7 @@ understanding of risk analytics in banking and financial services and understand
 minimize the risk of losing money while lending to customers.
 ### Business Understanding
 The loan-providing companies find it hard to give loans to people due to their insufficient or non-existent
-credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose
+credit history. Because of that, some consumers use it to their advantage by becoming a defaulters. Suppose
 you work for a consumer finance company specializing in lending various loans to urban
 customers. You have to use EDA to analyze the patterns present in the data. This will ensure that the
 applicants capable of repaying the loan are accepted.
