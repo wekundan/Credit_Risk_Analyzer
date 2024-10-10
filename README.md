@@ -31,7 +31,7 @@ been canceled by the client but is at different stages of the process.
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the
 tendency to default.
 ### Business Objectives
-Loading [MathJax]/extensions/Safe.js
+
 This case study aims to identify patterns that indicate if a client has difficulty paying their installments
 which may be used for taking actions such as denying the loan, reducing the amount of the loan, lending (to
 risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the
